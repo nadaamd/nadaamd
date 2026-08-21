@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="A pink full moon framed by cherry blossom branches at night" width="100%">
+</p>
+
 ### Nada — blockchain engineer
 
 Building at **[XRPL Commons](https://xrpl-commons.org)** · Paris
