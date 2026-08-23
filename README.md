@@ -45,8 +45,5 @@ Little's algorithm (branch-and-bound TSP) over a custom graph and matrix layer, 
 
 ---
 
-#### Currently
-
-Deepening confidential on-chain computation — garbled circuits on COTI — and contributing to [`leash`](https://github.com/leash-ai/leash), a private AI-agent performance competition, where the interesting problem is settling a duel without either side revealing its score.
 
 Talking about it on [X / @nada_amd9](https://x.com/nada_amd9).
