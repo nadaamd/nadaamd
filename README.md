@@ -17,11 +17,6 @@ A quantitative risk index (**CBRI**) built from tick-level Uniswap v3 data, and 
 Python (model + backtest) · TypeScript (QuoterV2/SwapRouter02 execution) · The Graph · 0G attestations · 29 tests
 → [live demo](https://umbra-ten-iota.vercel.app) · [risk terminal](https://umbra-ten-iota.vercel.app/terminal) · [research paper](https://github.com/nadaamd/umbra/tree/main/paper) · *ETH Global Lisbon 2026*
 
-**🟢 [MOLEHUNT](https://github.com/nadaamd/Mole-Hunt-Trading-Game)** — on-chain social deduction, played through a trading terminal
-Every round, one wallet is secretly the insider. Everyone trades the same token; you have to read *who is acting on information they shouldn't have* — and accuse them before the timer runs out. Confidential state handled on **COTI v2**.
-Next.js 16 · React 19 · Solidity + OpenZeppelin · ethers v6 · a design system built from scratch (emerald-on-black, OKLCH tokens, CSS/SVG animation, no animation library)
-→ [live demo](https://mole-hunt.vercel.app)
-
 **🏥 [MediFi](https://github.com/nadaamd/XRPL-Hackathon)** — medical bills paid in installments, hospitals settled instantly
 Patients repay interest-free over time, hospitals are paid in full on day one by a liquidity-provider layer, and borrowing eligibility is gated by zero-knowledge proofs. Built on **XRPL**.
 
