@@ -10,25 +10,6 @@ I work on the part of on-chain systems where being *approximately* right is expe
 
 ---
 
-#### Selected work
-
-**🌒 [Umbra](https://github.com/nadaamd/umbra)** — an autonomous financial circuit breaker for DeFi
-A quantitative risk index (**CBRI**) built from tick-level Uniswap v3 data, and an on-chain evacuation that fires *before* liquidity evaporates. Backtested on the **48,066 real swaps** of the March 2023 USDC depeg ($5.57B of volume): the breaker exits **17h before the bottom**, with USDC still at $1.0000 — **$126.9k saved on a $1M position**, versus 657 bps of slippage for waiting until confirmation.
-Python (model + backtest) · TypeScript (QuoterV2/SwapRouter02 execution) · The Graph · 0G attestations · 29 tests
-→ [live demo](https://umbra-ten-iota.vercel.app) · [risk terminal](https://umbra-ten-iota.vercel.app/terminal) · [research paper](https://github.com/nadaamd/umbra/tree/main/paper) · *ETH Global Lisbon 2026*
-
-**🏥 [MediFi](https://github.com/nadaamd/XRPL-Hackathon)** — medical bills paid in installments, hospitals settled instantly
-Patients repay interest-free over time, hospitals are paid in full on day one by a liquidity-provider layer, and borrowing eligibility is gated by zero-knowledge proofs. Built on **XRPL**.
-
-**🏎️ [Oracle Racer](https://github.com/nadaamd/Oracle_Racer)** — crypto assets race each other on live prices
-A multiplayer on-chain race settled entirely by **RedStone pull oracles**, with only 2 price reads per race.
-→ [live demo](https://oracle-racer-ten.vercel.app)
-
-**🚚 [Tournée Futée](https://github.com/nadaamd/Projet-PSI)** — delivery-route optimisation in C#
-Little's algorithm (branch-and-bound TSP) over a custom graph and matrix layer, with SQL persistence and a unit-test suite. Where I learned that the algorithm is the easy part.
-
----
-
 #### Stack
 
 | | |
